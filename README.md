@@ -1,8 +1,8 @@
 # Chapie
 Chapie es un robot para competencias de mini sumo
 
-Language: Assembler
-Pic: 18f4550
+Lenguaje de desarrollo: Assembler
+Microcontrolador: PIC 18f4550
 
 
 Caracteristicas del robot:
